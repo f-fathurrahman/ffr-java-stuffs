@@ -6,7 +6,9 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
 
-public class Hello_01 extends Application {
+// Simple JavaFX, one window with one button, EventHandler
+
+public class Test_01_Hello extends Application {
   public static void main(String[] args) {
     Application.launch(args);
   }
