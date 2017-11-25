@@ -1,1 +1,1 @@
-Various Java programming stuffs
+This repository contains various short Java programs.
